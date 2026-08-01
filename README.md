@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Waldan Is'ad 👋
 
-<!--
-**Muhammad-Waldan-Isad/Muhammad-Waldan-Isad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a high school student from Indonesia.
 
-Here are some ideas to get you started:
+🌱 Currently learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* C++
+* Competitive Programming
+* HTML & CSS
+* Git & GitHub
+
+💻 I'm still learning and improving my programming skills through school projects and practice.
+
+## Goals
+
+* Learn data structures and algorithms.
+* Participate in competitive programming contests.
+* Build useful and interesting projects.
+* Keep improving every day.
+
+## Tools
+
+* Visual Studio Code
+* Git & GitHub
+* C++
+
+> *"Every expert was once a beginner. Keep learning."*
